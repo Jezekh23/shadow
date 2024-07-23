@@ -1,0 +1,12 @@
+.box {
+    width: 200px;
+    height: 200px;
+    border: 10px solid black;
+    border-radius: 50%;
+    box-shadow: 5px 7px 10px 12px red, 10px 14px 15px 17px violet, 15px 16px 20px 23px lightgreen;
+}
+
+.h1 {
+    margin-top: 200px;
+    text-shadow: 5px 10px 15px red;
+}
